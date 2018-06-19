@@ -48,7 +48,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 	  * Make a BattleSnake bot and train it on a neural network
 * Jerry Tan
  * Goals:
-    * Continune to learn more web development 
+    * Continune to learn more web development
       * Experiment with different frameworks(Vue, Angular, Flask)
       * Start making personal website
       * Learn how to make web apps
@@ -56,17 +56,22 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
       * Tensorflow
       * Deep Learning
     * Technical Interview prep(CodeFights, LeetCode, CodePath etc)
-
-
-
 * Jacob Poole
+  * Goals:
+    * Continue to update Websites
+      * IEEE Foothill Website
+      * China Website
+    * Go in depth to more CS fields
+    * Learn more about web development
+    * Learn more about embedded systems and what I can program
+    * Finish a big programming project this summer
 * James Luo
  * Goals:
     * Learn Unreal
       * Do the udemy online course
       * Make a small project on my own
       * export it to either mobile or Steam
-      
+
     * Make a App that can get 50 downloads
       * Create something unique
       * Use more Apple API
@@ -84,7 +89,7 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 ### Day 0: June 00, 2018
 
-**Today's Progress**: 
+**Today's Progress**:
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob |
 |:---|:---|:---|:---|:---|:---|
@@ -96,10 +101,10 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 ### Day 0: June 00, 2018
 
-**Today's Progress**: 
+**Today's Progress**:
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob |James
-|:---|:---|:---|:---|:---|:---| :---| 
+|:---|:---|:---|:---|:---|:---| :---|
 | What did you do today? | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | honcus pellentesque | Quisque semper fringilla enim | Proin luctus, elit mollis  |
 | Comments | Proin luctus, elit mollis | Lorem ipsum dolor sit amet | Curabitur maximus lacus et | Curabitur maximus lacus et | Curabitur maximus lacus et |
 | Link | x | x | x | x | x |
@@ -110,8 +115,8 @@ This is the #100DaysOfCode log. It will start June 18th, 2018 and end on Septemb
 
 | Notes | John | Wendy | Cameron | Jerry | Jacob | James
 |:---|:---|:---|:---|:---|:---| :---|
-| What did you do today? | x | x | x | x | x | x |
-| Comments | x | x | x | x | x | x |
-| Link | x | x | x | x | x | x |
+| What did you do today? | x | x | x | x | I made updates and added new features for my website for China | x |
+| Comments | x | x | x | x | I'm not creative whatsoever.  | x |
+| Link | x | x | x | x | www.engr.ucr.edu/~ires/IRES2018/ | x |
 
 ---
